@@ -1,0 +1,76 @@
+body{
+    background-image: url("Imgs/alfa (2).jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.account a{
+font-size: 15pt;
+}
+.header{
+    width: 100%;
+    height: auto;
+    border: solid bisque 2px;
+    background-color: cornflowerblue;
+    font-size: 30pt;
+    text-align: center;
+    padding-bottom: 5%;
+
+
+}
+.login{
+    font-size: 15pt;
+    text-decoration: none;
+    float: right;
+    color: black;
+}
+
+.blokje {
+    float: left;
+    font-family: RobotoSlab;
+    font-size: 15pt;
+    padding-right: 10%;
+
+}
+.blokje a{
+    color: black;
+    text-decoration: none;
+    margin-right: auto;
+    padding-right: 14%;
+
+}
+
+
+a:visited {
+    background-color: lawngreen;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: hotpink;
+}
+#home{
+    text-align: left;
+    width: 80%;
+    padding-bottom: 5%;
+    background-color: beige;
+}
+.topics{
+    width: 40%;
+    height: 20%;
+    background-color: skyblue;
+    padding-bottom: 5%;
+}
+footer{
+    text-align: center;
+}
+.nav{
+    width: 8%;
+    background-color: aliceblue;
+    padding-bottom: 5%;
+    text-align: center;
+
+}
